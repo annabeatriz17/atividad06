@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section-header {
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;
+    padding: 1%;
+}
+
+.header1 {
+    display: flex;
+    background-color: rgb(245, 180, 60);
+    width: 50%;
+    height: 15.5rem;
+}
+
+.header2 {
+    display: flex;
+    background-color:  rgb(245, 180, 60);
+    width: 50%;
+    height: 15.5rem;
+}
+
+.conteudo {
+    display: flex;
+    gap: 1%;
+    padding: 1%;
+}
+
+.center {
+    background-color: yellow;
+    width: 100%;
+    height: 35rem;
+}
+
+.quadrado {
+    display: flex;
+    gap: 1%;
+    padding: 1%;
+}
+
+.quadrado1 {
+    background-color: rgb(68, 68, 255);
+    width: 50%;
+    height: 20rem;
+}
+
+.quadrado2 {
+    background-color:rgb(68, 68, 255);
+    width: 50%;
+    height: 20rem;
+}
+
+.quadrado3 {
+    background-color:rgb(68, 68, 255);
+    width: 50%;
+    height: 20rem;
+}
+
+.footer {
+    flex-direction: row;
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.footer-01 {
+    width: 100%;
+    display: flex;
+    gap: 1%;
+    padding: 0.25%;
+}
+
+.footer1 {
+    background-color: rgb(73, 73, 73);
+    width: 50%;
+    height: 20rem;
+}
+
+.footer2 {
+    background-color: rgb(73, 73, 73);
+    width: 50%;
+    height: 20rem;
+}
+
+.footer02 {
+    width: 100%;
+    display: flex;
+    gap: 1%;
+    padding: 0.25%;
+}
+
+.footer3 {
+    background-color: rgb(73, 73, 73);
+    width: 50%;
+    height: 20rem;
+}
+
+.footer4 {
+    background-color: rgb(73, 73, 73);
+    width: 50%;
+    height: 20rem;
+}
